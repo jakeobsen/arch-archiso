@@ -125,3 +125,5 @@ zsh
 ncurses
 dialog
 glibc
+git
+wget
